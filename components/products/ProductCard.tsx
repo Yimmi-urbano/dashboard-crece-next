@@ -14,5 +14,4 @@ const ProductCard: React.FC<ProductCardProps> = ({ _id, title,stock }) => {
     </div>
   );
 };
-
 export default ProductCard;
